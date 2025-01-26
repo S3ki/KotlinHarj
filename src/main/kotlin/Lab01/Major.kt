@@ -1,4 +1,4 @@
-package org.example
+package org.example.Lab01
 
 class Major(val name: String) {
     private val students = mutableListOf<Student>()

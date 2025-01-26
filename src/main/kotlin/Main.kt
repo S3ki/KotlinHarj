@@ -1,5 +1,7 @@
 package org.example
 
+import org.example.Lab01.Human
+
 fun main() {
 
     val human = Human("Mike", 2)

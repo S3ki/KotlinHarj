@@ -1,4 +1,4 @@
-package org.example
+package org.example.Lab01
 
 class Student(name : String, age: Int) {
     val courses = mutableListOf<CourseRecord>()
